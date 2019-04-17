@@ -20,25 +20,29 @@ n_out = 10
 #sample
 n_samples = 300
 
-
+#_____________________________________________________________________________________________________________________________________________________
 
 #Hyper Parameters
 learning_rate = 0.01
 momentum = 0.9
+#_____________________________________________________________________________________________________________________________________________________
+
 
 #non determinisitc Seeding
 np.random.seed(0)
 
+#_____________________________________________________________________________________________________________________________________________________
 
 #Activation Functin one
 def sigmoid(x):
     return 1.0/(1.0 + np.exp(-x))
 
+#_____________________________________________________________________________________________________________________________________________________
 #Activation Function Two
 def tanh_prime(x):
     return  1 - np.tanh(x)**2
 
-
+#_____________________________________________________________________________________________________________________________________________________
 #Training Function
 # x=Input data; t=Transpose (Help function matrix multiplication ) ;V= Layer one; W= layer two; bv= bias one; bw= bias two
 def train(x, t, V, W, bv, bw):
@@ -71,11 +75,17 @@ def train(x, t, V, W, bv, bw):
 
     return  loss, (dV, dW, Ev, Ew)
 
+#_____________________________________________________________________________________________________________________________________________________
+
+
+
 def predict(x, V, W, bv, bw):
     A = np.dot(x, V) + bv
     B = np.dot(np.tanh(A), W) + bw
     #what ever we retrun is going to be our prediciton
     return (sigmoid(B) > 0.5).astype(int)
+
+#_____________________________________________________________________________________________________________________________________________________
 
 # Setup initial parameters
 # Note that initialization is cruxial for first-order methods!
@@ -98,6 +108,8 @@ params = [V,W,bv,bw]
 X = np.random.binomial(1, 0.5, (n_samples, n_in))
 T = X ^ 1
 
+
+#_____________________________________________________________________________________________________________________________________________________
 # Train
 for epoch in range(100):
     #error array
@@ -126,9 +138,11 @@ for epoch in range(100):
 
         #append our error with loss
         err.append( loss )
-    #printing out our results 
+    #printing out our results
     print "Epoch: %d, Loss: %.8f, Time: %.4fs" % (
                 epoch, np.mean( err ), time.clock()-t0 )
+#_____________________________________________________________________________________________________________________________________________________
+
 
 # Try to predict something
 
