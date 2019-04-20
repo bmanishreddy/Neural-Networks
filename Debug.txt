@@ -1,0 +1,1906 @@
+hh/Users/manishreddybendhi/PycharmProjects/EnglishSpellings/venv1/bin/python /Users/manishreddybendhi/PycharmProjects/EnglishSpellings/venv1/NuralNet.py
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 0, Loss: 0.69664661, Time: 0.0022s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 1, Loss: 0.69664661, Time: 0.0020s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 2, Loss: 0.69664661, Time: 0.0020s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 3, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 4, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 5, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 6, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 7, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 8, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 9, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 10, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 11, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 12, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 13, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 14, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 15, Loss: 0.69664661, Time: 0.0021s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 16, Loss: 0.69664661, Time: 0.0019s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 17, Loss: 0.69664661, Time: 0.0019s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 18, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 19, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 20, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 21, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 22, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 23, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 24, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 25, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 26, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 27, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 28, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 29, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 30, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 31, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 32, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 33, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 34, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 35, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 36, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 37, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 38, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 39, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 40, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 41, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 42, Loss: 0.69664661, Time: 0.0019s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 43, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 44, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 45, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 46, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 47, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 48, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 49, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 50, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 51, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 52, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 53, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 54, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 55, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 56, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 57, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 58, Loss: 0.69664661, Time: 0.0019s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 59, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 60, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 61, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 62, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 63, Loss: 0.69664661, Time: 0.0019s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 64, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 65, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 66, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 67, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 68, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 69, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 70, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 71, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 72, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 73, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 74, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 75, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 76, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 77, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 78, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 79, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 80, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 81, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 82, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 83, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 84, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 85, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 86, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 87, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 88, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 89, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 90, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 91, Loss: 0.69664661, Time: 0.0025s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 92, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 93, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 94, Loss: 0.69664661, Time: 0.0019s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 95, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 96, Loss: 0.69664661, Time: 0.0019s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 97, Loss: 0.69664661, Time: 0.0018s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 98, Loss: 0.69664661, Time: 0.0021s
+The upd value in up loop one  ....== [0, 0, 0, 0]
+The value in first step..Z== [0.17459789]
+The value in Second  step..Y== [0.50174666]
+The value in backward step one EW....== [0.50174666]
+The value in backward step Two Ev ....== [0.0194657]
+The outer layer that is cross prodcuct of the first part ....== [[0.08760391]]
+The outer layer that is cross prodcuct of the Second  part ....== [[0.0194657]]
+The loss value  ....== 0.696646612400165
+The upd value in up loop two  loss .... grad  ....== 0.696646612400165 (array([[0.0194657]]), array([[0.08760391]]), array([0.0194657]), array([0.50174666]))
+The params  value in up loop   three( one  ).... params   ....== [[0.17640523]]
+The params  value in up loop   three( one  ).... params   ....== [[0.04001572]]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in up loop   three( one  ).... params   ....== [0.]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00019466]]
+The params  value in upidn   three( two  ).... upid   ....== [[0.00087604]]
+The params  value in upidn   three( two  ).... upid   ....== [0.00019466]
+The params  value in upidn   three( two  ).... upid   ....== [0.00501747]
+Seperator __________________________________________________________________________________
+Epoch: 99, Loss: 0.69664661, Time: 0.0019s
+XOR prediction:
+[1]
+[1]
+
+Process finished with exit code 0
