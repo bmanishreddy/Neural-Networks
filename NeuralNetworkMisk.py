@@ -13,20 +13,21 @@ class NuralNet(object):
         won't set any biases for those neurons, since biases are only
         ever used in computing the outputs from later layers."""
         self.num_layers = len(sizes)
-        print(self.num_layers)
+
         self.sizes = sizes
-        print(self.sizes)
-        self.biases = [np.random.randn(y, 1) for y in sizes[1:]]
-        print(sizes[1:])
-        print(self.biases)
+        print("size  =",self.sizes)
+        self.biases = [np.random.randn(y, 1) for y in sizes[1:] ]
+
+        print("bias = ",self.biases)
         self.weights = [np.random.randn(y, x)
                         for x, y in zip(sizes[:-1], sizes[1:])]
-        print(self.weights)
+        print("weights=",self.weights)
 
     def feedforward(self, a):
         """Return the output of the network if ``a`` is input."""
         for b, w in zip(self.biases, self.weights):
             a = sigmoid(np.dot(w, a) + b)
+            print("The values of a = ",a)
         return a
 
     # misc files
@@ -46,5 +47,5 @@ def sigmoid_prime(z):
     return sigmoid(z) * (1 - sigmoid(z))
 
 
-obj = NuralNet([2,3,1])
-print(obj.feedforward(3))
+obj = NuralNet([3,3,2])
+print("sigmoid value = ",obj.feedforward(10))
